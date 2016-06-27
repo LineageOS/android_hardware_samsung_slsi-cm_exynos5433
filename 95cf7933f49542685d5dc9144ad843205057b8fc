@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3fa7e38b_8a768f3e",
+        "filename": "gralloc/framebuffer.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 73,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2016-06-27T17:46:13Z",
+      "side": 1,
+      "message": "You probably should match the brace cuddling used the rest of the file.\n\nif (...) {",
+      "revId": "95cf7933f49542685d5dc9144ad843205057b8fc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_2a9d1b59",
+        "filename": "gralloc/gralloc_vsync.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2016-06-27T17:46:13Z",
+      "side": 1,
+      "message": "Do you want to keep track of vsync state, so you avoid making excessive ioctl calls?",
+      "revId": "95cf7933f49542685d5dc9144ad843205057b8fc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_6a931351",
+        "filename": "gralloc/gralloc_vsync.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2016-06-27T17:46:13Z",
+      "side": 1,
+      "message": "You should probably match the formatting of the rest of the repo.\n\nif (...) {\n\nspaces instead of tabs",
+      "revId": "95cf7933f49542685d5dc9144ad843205057b8fc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_2a043b7b",
+        "filename": "include/gralloc_vsync_report.h",
+        "patchSetId": 2
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2016-06-27T17:46:13Z",
+      "side": 1,
+      "message": "Same here, use spaces instead of tabs to match the formatting of the existing files.",
+      "revId": "95cf7933f49542685d5dc9144ad843205057b8fc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
