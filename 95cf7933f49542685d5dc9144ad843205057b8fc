@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "3fa7e38b_7803e90e",
+        "filename": "gralloc/framebuffer.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 73,
+      "author": {
+        "id": 7155
+      },
+      "writtenOn": "2016-06-28T13:59:39Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "3fa7e38b_8a768f3e",
+      "revId": "95cf7933f49542685d5dc9144ad843205057b8fc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3fa7e38b_2a9d1b59",
         "filename": "gralloc/gralloc_vsync.cpp",
         "patchSetId": 2
@@ -30,6 +48,24 @@
       "writtenOn": "2016-06-27T17:46:13Z",
       "side": 1,
       "message": "Do you want to keep track of vsync state, so you avoid making excessive ioctl calls?",
+      "revId": "95cf7933f49542685d5dc9144ad843205057b8fc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_1808b526",
+        "filename": "gralloc/gralloc_vsync.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 7155
+      },
+      "writtenOn": "2016-06-28T13:59:39Z",
+      "side": 1,
+      "message": "Cached the vsync state in fb_setSwapInterval now.",
+      "parentUuid": "3fa7e38b_2a9d1b59",
       "revId": "95cf7933f49542685d5dc9144ad843205057b8fc",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -53,6 +89,24 @@
     },
     {
       "key": {
+        "uuid": "3fa7e38b_d811bd55",
+        "filename": "gralloc/gralloc_vsync.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 7155
+      },
+      "writtenOn": "2016-06-28T13:59:39Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "3fa7e38b_6a931351",
+      "revId": "95cf7933f49542685d5dc9144ad843205057b8fc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3fa7e38b_2a043b7b",
         "filename": "include/gralloc_vsync_report.h",
         "patchSetId": 2
@@ -64,6 +118,24 @@
       "writtenOn": "2016-06-27T17:46:13Z",
       "side": 1,
       "message": "Same here, use spaces instead of tabs to match the formatting of the existing files.",
+      "revId": "95cf7933f49542685d5dc9144ad843205057b8fc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_f80ef930",
+        "filename": "include/gralloc_vsync_report.h",
+        "patchSetId": 2
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 7155
+      },
+      "writtenOn": "2016-06-28T13:59:39Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "3fa7e38b_2a043b7b",
       "revId": "95cf7933f49542685d5dc9144ad843205057b8fc",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
