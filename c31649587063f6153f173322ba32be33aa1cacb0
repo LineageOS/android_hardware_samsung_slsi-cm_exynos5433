@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3fa7e38b_186f55c6",
+        "filename": "gralloc/framebuffer.cpp",
+        "patchSetId": 3
+      },
+      "lineNbr": 81,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2016-06-28T15:27:44Z",
+      "side": 1,
+      "message": "} else if (...) {",
+      "revId": "c31649587063f6153f173322ba32be33aa1cacb0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_38749199",
+        "filename": "gralloc/framebuffer.cpp",
+        "patchSetId": 3
+      },
+      "lineNbr": 92,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2016-06-28T15:27:44Z",
+      "side": 1,
+      "message": "This statement won\u0027t allow -1, is that intentional?",
+      "revId": "c31649587063f6153f173322ba32be33aa1cacb0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_f86599e2",
+        "filename": "gralloc/gralloc_vsync.cpp",
+        "patchSetId": 3
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2016-06-28T15:27:44Z",
+      "side": 1,
+      "message": "if (...)",
+      "revId": "c31649587063f6153f173322ba32be33aa1cacb0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_d868ddbb",
+        "filename": "gralloc/gralloc_vsync.cpp",
+        "patchSetId": 3
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2016-06-28T15:27:44Z",
+      "side": 1,
+      "message": "if (...)",
+      "revId": "c31649587063f6153f173322ba32be33aa1cacb0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
