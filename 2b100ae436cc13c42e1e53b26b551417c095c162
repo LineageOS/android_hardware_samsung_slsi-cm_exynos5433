@@ -16,6 +16,24 @@
       "revId": "2b100ae436cc13c42e1e53b26b551417c095c162",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_4d2af1e7",
+        "filename": "gralloc/framebuffer.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 297,
+      "author": {
+        "id": 7155
+      },
+      "writtenOn": "2016-06-28T07:39:16Z",
+      "side": 1,
+      "message": "Not sure why the ref is passed here honestly, but this is how ARM does it in their sources.",
+      "parentUuid": "3fa7e38b_eaf5c384",
+      "revId": "2b100ae436cc13c42e1e53b26b551417c095c162",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
